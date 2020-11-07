@@ -1,0 +1,26 @@
+Olá, seja bem-vindo ao documento de suporte de instalação do produto. (bdl_elevador)
+
+Para começarmos, devemos colocar a pasta do script dentro da pasta resources da sua base.
+A partir disso, você deve abrir o documento de configuração da sua base com a extensão .cfg
+Coloque a seguinte linha de comando dentro do documento.
+
+start bdl_elevador
+ou
+ensure bdl_elevador
+
+Qualquer uma das opções serve.
+Nós não recomendamos alterar o nome da pasta ou de qualquer função interna do código.
+Após isso, seu elevador já funcionará da maneira correta, caso tenha dúvidas da sua localização, apenas abra o client-side (joel.lua) e pegue as coordenadas.
+Esse elevador foi feito para a DP de Vespucci, porém com certo tempo & estudo, é possível adaptar para qualquer lugar.
+
+Para cessar suas dúvidas, visite nosso discord ( https://discord.gg/bABGBEX ).
+
+
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.
+NÃO CHAME O AUTOR OU QUALQUER MEMBRO DA EQUIPE NO PRIVADO, PARA TIRAR DÚVIDAS UTILIZE A SALA #ajuda-scripts NA ABA COMUNIDADE DO NOSSO DISCORD.

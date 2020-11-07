@@ -1,0 +1,26 @@
++ dev_version = v2020.0.0.00164
++ public_version = 3.1 * (" Sword ")
++ patch = (*patch)
++ developer = rossinijs
++ readme = readme.txt
++ file_directory = [
+[bdl_elevator]
+    -fxmanifest.lua
+    -readme.txt
+	-help.txt
+    	[client-side]
+            -joel.lua
+        [nui]
+	    -badland.html {markup text}
+	    -badland.css {stylesheet}
+	    -badland.js {jQuery lib v3.2}
+_EventDocumentOn [end]
+]
+
+_TryGetJsonFile = [{}]
+_LoadFuncOnPage [null]
+_SetTimeToLoad [0.0000000025]
+_SetPageDelay [30]
+_DoItOnTrueState [cond_1 to load.executeFunction]
+_LoadUIPage [nui/badland.html] |= { cond_1 }
+_GetPageUIVersion [+set cond_1 = *patch // public_version]
